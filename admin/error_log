@@ -1,0 +1,64 @@
+[09-Dec-2015 04:35:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sendukbe/public_html/admin/index.php:37) in /home/sendukbe/public_html/admin/index.php on line 59
+[09-Dec-2015 04:35:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sendukbe/public_html/admin/index.php:37) in /home/sendukbe/public_html/admin/index.php on line 61
+[09-Dec-2015 04:37:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sendukbe/public_html/admin/index.php:37) in /home/sendukbe/public_html/admin/index.php on line 61
+[09-Dec-2015 04:39:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sendukbe/public_html/admin/index.php:37) in /home/sendukbe/public_html/admin/index.php on line 61
+[09-Dec-2015 04:50:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sendukbe/public_html/admin/index.php:37) in /home/sendukbe/public_html/admin/index.php on line 61
+[09-Dec-2015 04:52:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sendukbe/public_html/admin/index.php:37) in /home/sendukbe/public_html/admin/index.php on line 59
+[09-Dec-2015 04:52:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sendukbe/public_html/admin/index.php:37) in /home/sendukbe/public_html/admin/index.php on line 61
+[09-Dec-2015 04:52:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sendukbe/public_html/admin/index.php:37) in /home/sendukbe/public_html/admin/index.php on line 59
+[09-Dec-2015 04:52:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sendukbe/public_html/admin/index.php:37) in /home/sendukbe/public_html/admin/index.php on line 61
+[09-Dec-2015 04:55:41 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/sendukbe/public_html/admin/modal_add_product.php on line 96
+[09-Dec-2015 04:55:41 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/sendukbe/public_html/admin/modal_add_product.php on line 98
+[09-Dec-2015 04:55:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sendukbe/public_html/admin/product.php:2) in /home/sendukbe/public_html/admin/modal_add_product.php on line 108
+[09-Dec-2015 09:56:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sendukbe/public_html/admin/edit_product.php:2) in /home/sendukbe/public_html/admin/edit_product.php on line 135
+[10-Mar-2016 13:51:49 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Mar-2016 13:51:50 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Mar-2016 16:20:41 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Mar-2016 23:29:01 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[18-Mar-2016 07:40:13 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[18-Mar-2016 07:40:13 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[19-Mar-2016 19:35:33 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[22-Mar-2016 10:09:06 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[23-Mar-2016 10:27:20 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[24-Mar-2016 06:07:59 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[25-Mar-2016 23:12:39 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[25-Mar-2016 23:12:39 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[26-Mar-2016 18:43:19 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[28-Mar-2016 18:42:31 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[29-Mar-2016 00:07:34 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[31-Mar-2016 07:24:48 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[31-Mar-2016 08:17:02 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[01-Apr-2016 09:47:00 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[02-Apr-2016 06:33:19 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[03-Apr-2016 07:48:21 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[03-Apr-2016 07:48:21 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[05-Apr-2016 09:49:54 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[08-Apr-2016 23:45:07 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[08-Apr-2016 23:45:08 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[11-Apr-2016 21:30:55 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[13-Apr-2016 22:03:42 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Apr-2016 19:10:05 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Apr-2016 11:00:26 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Apr-2016 22:47:33 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Apr-2016 22:47:58 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Apr-2016 22:47:58 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Apr-2016 22:59:17 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Apr-2016 22:59:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sendukbe/public_html/admin/product.php:2) in /home/sendukbe/public_html/admin/modal_add_product.php on line 108
+[16-Apr-2016 23:00:04 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Apr-2016 23:00:05 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Apr-2016 23:03:02 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Apr-2016 23:03:25 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Apr-2016 12:38:36 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Apr-2016 12:38:37 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[18-Apr-2016 20:26:18 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[20-Apr-2016 18:06:40 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[20-Apr-2016 23:59:50 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[24-Apr-2016 23:03:33 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[24-Apr-2016 23:03:34 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[25-Apr-2016 10:06:49 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[25-Apr-2016 23:30:47 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[26-Apr-2016 06:03:13 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[26-Apr-2016 06:03:17 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[26-Apr-2016 06:04:36 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[26-Apr-2016 06:04:37 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[27-Apr-2016 09:13:44 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0

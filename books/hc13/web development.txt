@@ -1,0 +1,5 @@
+Title	Introduction to Web Development Using HTML 5
+Author	Kris Jamsa
+Publisher	Jones & Bartlett Publishers, 2013
+ISBN	1284032892, 9781284032895
+Length	600 pages

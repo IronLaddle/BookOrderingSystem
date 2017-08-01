@@ -1,0 +1,2 @@
+[26-Apr-2016 04:24:29 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0
+[26-Apr-2016 04:24:47 UTC] PHP Warning:  Cannot load module 'pdo_sqlite' because required module 'pdo' is not loaded in Unknown on line 0

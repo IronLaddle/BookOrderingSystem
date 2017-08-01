@@ -1,0 +1,7 @@
+Title	Advanced Multimedia Content Processing: First International Conference, AMCP'98, Osaka, Japan, November 9-11, 1998, Proceedings
+Lecture Notes in Computer Science
+Editors	Shojiro Nishio, Fumio Kishino
+Edition	illustrated
+Publisher	Springer, 2003
+ISBN	3540489622, 9783540489627
+Length	462 pages

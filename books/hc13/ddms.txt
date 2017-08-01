@@ -1,0 +1,7 @@
+Title	Principles of Distributed Database Systems
+Computer science
+Authors	M. Tamer Özsu, Patrick Valduriez
+Edition	illustrated
+Publisher	Springer Science & Business Media, 2011
+ISBN	1441988343, 9781441988348
+Length	866 pages
